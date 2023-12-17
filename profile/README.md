@@ -8,4 +8,4 @@
 
 ### Farm Troy
 
-- [Farm Troy App](https://github.com/ProjectAlmanac-dev/Farm-Troy.app)
+- [Farm Troy App](https://github.com/ProjectAlmanac-dev/farm-troy-app)
