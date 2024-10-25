@@ -2,10 +2,10 @@
 
 ## Projects
 
-### Project Almanac
+### farmlocal.life (Product Website)
 
-- [Project Almanac Website](https://github.com/ProjectAlmanac-dev/ProjectAlmanac.life)
+- [farmlocal.life](https://github.com/ProjectAlmanac-dev/ProjectAlmanac.life)
 
-### Farm Troy
+### Farm::Local (Product Repo)
 
-- [Farm Troy App](https://github.com/ProjectAlmanac-dev/farm-troy-app)
+- [Farm::Local](https://github.com/ProjectAlmanac-dev/farm-troy-app)
