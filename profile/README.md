@@ -4,7 +4,7 @@
 
 ### farmlocal.life (Product Website)
 
-- [farmlocal.life](https://github.com/ProjectAlmanac-dev/ProjectAlmanac.life)
+- [farmlocal.life](https://github.com/ProjectAlmanac-dev/farmlocal.life)
 
 ### Farm::Local (Product Repo)
 
