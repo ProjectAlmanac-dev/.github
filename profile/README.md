@@ -8,7 +8,7 @@
 
 ### Farm::Local (Product Repo)
 
-- [Farm::Local](https://github.com/ProjectAlmanac-dev/farm-troy-app)
+- [Farm::Local](https://github.com/ProjectAlmanac-dev/farm-local-app)
 - [Routes](https://github.com/ProjectAlmanac-dev/Routes.life)
 
 ### Documentation Site
