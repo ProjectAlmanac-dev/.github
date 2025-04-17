@@ -6,11 +6,15 @@
 
 - [farmlocal.life](https://github.com/ProjectAlmanac-dev/farmlocal.life)
 
+### projectalmanac.life (Company Website)
+
+- [farmlocal.life](https://github.com/ProjectAlmanac-dev/CompanyWeb)
+
 ### Farm::Local (Product Repo)
 
 - [Farm::Local](https://github.com/ProjectAlmanac-dev/farm-local-app)
 - [Routes](https://github.com/ProjectAlmanac-dev/Routes.life)
 
-### Documentation Site
+### HarvestMind (Food Data Collector)
 
-- [ProjectDoc](https://github.com/ProjectAlmanac-dev/ProjectDoc)
+- [farmlocal.life](https://github.com/ProjectAlmanac-dev/HarvestMind)
