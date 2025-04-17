@@ -8,7 +8,7 @@
 
 ### projectalmanac.life (Company Website)
 
-- [farmlocal.life](https://github.com/ProjectAlmanac-dev/CompanyWeb)
+- [projectalmanac.life](https://github.com/ProjectAlmanac-dev/CompanyWeb)
 
 ### Farm::Local (Product Repo)
 
@@ -17,4 +17,4 @@
 
 ### HarvestMind (Food Data Collector)
 
-- [farmlocal.life](https://github.com/ProjectAlmanac-dev/HarvestMind)
+- [Harvest Mind](https://github.com/ProjectAlmanac-dev/HarvestMind)
