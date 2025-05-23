@@ -1,20 +1,20 @@
 # Project Almanac
 
-## Projects
+## Project Repositories
 
-### farmlocal.life (Product Website)
+### 🌾 Farm::Local – Product Platform
+- **App Repository:** [Farm::Local](https://github.com/ProjectAlmanac-dev/farm-local-app)
+- **Routing System:** [Routes.life](https://github.com/ProjectAlmanac-dev/Routes.life)
 
-- [farmlocal.life](https://github.com/ProjectAlmanac-dev/farmlocal.life)
+### 🌐 Websites
+- **Product Website:** [farmlocal.life](https://github.com/ProjectAlmanac-dev/farmlocal.life)
+- **Company Website:** [projectalmanac.life](https://github.com/ProjectAlmanac-dev/CompanyWeb)
 
-### projectalmanac.life (Company Website)
+### 🧠 HarvestMind – Food Data Collector
+- **Repository:** [HarvestMind](https://github.com/ProjectAlmanac-dev/HarvestMind)
 
-- [projectalmanac.life](https://github.com/ProjectAlmanac-dev/CompanyWeb)
+### 🐳 Docker – Image Registry for Project Almanac
+- **Docker Repository:** [docker](https://github.com/ProjectAlmanac-dev/docker)
 
-### Farm::Local (Product Repo)
-
-- [Farm::Local](https://github.com/ProjectAlmanac-dev/farm-local-app)
-- [Routes](https://github.com/ProjectAlmanac-dev/Routes.life)
-
-### HarvestMind (Food Data Collector)
-
-- [Harvest Mind](https://github.com/ProjectAlmanac-dev/HarvestMind)
+### 🎨 Bleubird – Design Collective
+- **Design Team Site:** [Bleubird](https://github.com/ProjectAlmanac-dev/bleubird)
