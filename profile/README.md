@@ -4,7 +4,7 @@
 
 ### 🌾 Farm::Local – Product Platform
 - **App Repository:** [Farm::Local](https://github.com/ProjectAlmanac-dev/farm-local-app)
-- **Routing System:** [Routes.life](https://github.com/ProjectAlmanac-dev/Routes.life)
+- **Delivery Platform:** [Routes.life](https://github.com/ProjectAlmanac-dev/Routes.life)
 
 ### 🌐 Websites
 - **Product Website:** [farmlocal.life](https://github.com/ProjectAlmanac-dev/farmlocal.life)
