@@ -7,7 +7,7 @@
 - **Delivery Platform:** [Routes.life](https://github.com/ProjectAlmanac-dev/Routes.life)
 
 ### 🌐 Websites
-- **Product Website:** [farmlocal.life](https://github.com/ProjectAlmanac-dev/farmlocal.life)
+- **Product Website:** [farmlocal.life](https://github.com/ProjectAlmanac-dev/farm-local-web)
 - **Company Website:** [projectalmanac.life](https://github.com/ProjectAlmanac-dev/CompanyWeb)
 
 ### 🧠 HarvestMind – Food Data Collector
