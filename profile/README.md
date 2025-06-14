@@ -20,4 +20,4 @@
 - **Design Team Site:** [Bleubird](https://github.com/ProjectAlmanac-dev/bleubird)
 
 ### 🚢 Waterways Cruises
-- **Waterways Cruises:** [waterwayscruises.life](https://github.com/ProjectAlmanac-dev/waterway)
+- **Waterways Cruises:** [waterwayscruises.life](https://github.com/ProjectAlmanac-dev/waterways)
